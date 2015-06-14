@@ -3,5 +3,5 @@
 <span id="${1/\s*(\w+)(?:([^A-Za-z0-9\-_]+?))/\L\1(?2:-)/g}">${1:text}</span>
 ]]></content>
   <tabTrigger>%anchor</tabTrigger>
-  <scope>text.html</scope>
+  <scope>text.html.markdown</scope>
 </snippet>

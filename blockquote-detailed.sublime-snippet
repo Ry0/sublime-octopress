@@ -2,8 +2,8 @@
 	<content><![CDATA[
 {% blockquote ${1:author${2:, source}} ${3:link} ${4:source_link_title} %}
 ${5:quote}
-{% endblockquote %}
+{% endblockquote %}  
 ]]></content>
 	<tabTrigger>%quote</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html.markdown</scope>
 </snippet>
