@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-{% oembed ${1:TwitterURL} %}  
+{% tweet ${1:TwitterURL} align='center' %}
 ]]></content>
 	<tabTrigger>%twitter</tabTrigger>
 	<scope>text.html.markdown</scope>
