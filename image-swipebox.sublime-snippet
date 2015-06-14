@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a class="swipebox" href="${1:/path/to/高画質}" title="${2:タイトル}" >
+<a class="swipebox" href="${1:/path/to/高画質}" title="${2:タイトル}">
   <img class="center" src="${3:/path/to/image}">
 </a>
 ]]></content>
