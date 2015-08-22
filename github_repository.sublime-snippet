@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<div class="github-widget" data-repo="${1:address}"></div>
+]]></content>
+	<tabTrigger>%github</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
