@@ -2,10 +2,14 @@
 	<content><![CDATA[
 <div class="container">
   <div class="col span_6">
-    ${1:image1}
+    <a class="swipebox img-two-col-left" href="{1:image1_big}" title="{2:image1_title}">
+      <img class="image-effect" src="{3:image1}">
+    </a>
   </div>
   <div class="col span_6">
-    ${2:image2}
+    <a class="swipebox img-two-col-right" href="{4:image2_big}" title="{5:image2_title}">
+      <img class="image-effect" src="{6:image2}">
+    </a>
   </div>
 </div>
 ]]></content>
